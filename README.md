@@ -1,6 +1,7 @@
 # 🔷 Graph Theory Playground
 
 An interactive **Graph Theory Playground** built entirely in Java (Swing) that lets you visually create graphs and run classic algorithms with step-by-step animation — right on your canvas.
+![Graph Playground Screenshot](Assets/Screenshot.png)
 
 ---
 
